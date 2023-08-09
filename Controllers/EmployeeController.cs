@@ -16,13 +16,29 @@ namespace Primeira_API.Controllers
         }
 
         [HttpPost]//indica que é um post
-        public IActionResult Add(EmployeeViewModel employeeView)
+        public IActionResult Add([FromForm]EmployeeViewModel employeeView) //indica que o método recebe um formulário
         {
-            var employee = new Employee(employeeView.name, employeeView.age, null);//cria um novo funcionário //photo = null por enquanto
+
+            var filePAth = Path.Combine("Storage", employeeView.Photo.FileName);//cria o caminho do arquivo para salvar uma foto dentro da API
+
+            using Stream fileStream = new FileStream(filePAth, FileMode.Create);//cria um arquivo
+            employeeView.Photo.CopyTo(fileStream);//copia a foto para o arquivo
+
+            var employee = new Employee(employeeView.Name, employeeView.Age, filePAth);//cria um novo funcionário //photo = null por enquanto
+
 
             _employeerepository.Add(employee);//adiciona o funcionário
 
             return Ok();
+        }
+
+        [HttpPost]//indica que é um post
+        [Route("{id}/dowload")]//indica o caminho da api
+        public IActionResult DowloadPhoto(int id)
+        {
+            var employee = _employeerepository.Get(id);//retorna um funcionário
+            var dataBytes = System.IO.File.ReadAllBytes(employee.photo);//lê o arquivo
+            return File(dataBytes, "image/png");//retorna o arquivo
         }
 
         [HttpGet]//indica que é um get
