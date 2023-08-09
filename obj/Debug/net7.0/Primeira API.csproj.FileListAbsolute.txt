@@ -1,0 +1,38 @@
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\appsettings.json
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Primeira API.exe
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Primeira API.deps.json
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Primeira API.runtimeconfig.json
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Primeira API.dll
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Primeira API.pdb
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\Primeira API.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\Primeira API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\Primeira API.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\Primeira API.AssemblyInfo.cs
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\Primeira API.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\Primeira API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\Primeira API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\staticwebassets\msbuild.Primeira API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\staticwebassets\msbuild.build.Primeira API.props
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Primeira API.props
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Primeira API.props
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\scopedcss\bundle\Primeira API.styles.css
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\Primeira API.csproj.CopyComplete
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\Primeira API.dll
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\refint\Primeira API.dll
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\Primeira API.pdb
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\Primeira API.genruntimeconfig.cache
+C:\Users\henry\source\repos\Primeira API\Primeira API\obj\Debug\net7.0\ref\Primeira API.dll
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\henry\source\repos\Primeira API\Primeira API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
